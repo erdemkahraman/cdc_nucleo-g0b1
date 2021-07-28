@@ -1,0 +1,6 @@
+stm32g0xx_ll_ucpd.h:340:22:LL_UCPD_Enable	16	static
+stm32g0xx_ll_ucpd.h:384:22:LL_UCPD_SetRxOrderSet	16	static
+stm32g0xx_ll_ucpd.h:637:22:LL_UCPD_SetccEnable	16	static
+usbpd_cad_hw_if.c:234:6:CAD_Init	64	static
+usbpd_cad_hw_if.c:366:6:CAD_Enter_ErrorRecovery	16	static
+usbpd_cad_hw_if.c:1102:10:CAD_StateMachine	24	static
